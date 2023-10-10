@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TransacaoFinanceira/1.0.0": {
+        "runtime": {
+          "TransacaoFinanceira.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransacaoFinanceira/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

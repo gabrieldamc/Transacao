@@ -1,0 +1,15 @@
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\bin\Debug\net5.0\TransacaoFinanceira.exe
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\bin\Debug\net5.0\TransacaoFinanceira.deps.json
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\bin\Debug\net5.0\TransacaoFinanceira.runtimeconfig.json
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\bin\Debug\net5.0\TransacaoFinanceira.runtimeconfig.dev.json
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\bin\Debug\net5.0\TransacaoFinanceira.dll
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\bin\Debug\net5.0\TransacaoFinanceira.pdb
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\TransacaoFinanceira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\TransacaoFinanceira.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\TransacaoFinanceira.AssemblyInfo.cs
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\TransacaoFinanceira.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\TransacaoFinanceira.dll
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\refint\TransacaoFinanceira.dll
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\TransacaoFinanceira.pdb
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\TransacaoFinanceira.genruntimeconfig.cache
+C:\Users\gabri\Downloads\TransacaoFinanceira-main\obj\Debug\net5.0\ref\TransacaoFinanceira.dll
